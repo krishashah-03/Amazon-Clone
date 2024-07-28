@@ -1,2 +1,2 @@
 # Web-Development-Projects
-In this section I will add all my web development projects.
+My First HTML-CSS Project consists on an Amazon Clone.
