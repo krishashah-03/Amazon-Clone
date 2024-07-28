@@ -1,2 +1,2 @@
-# Web-Development-Projects
-My First HTML-CSS Project consists on an Amazon Clone.
+#Amazon-Clone
+I have made a basic model of Amazon using HTML and CSS
